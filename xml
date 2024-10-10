@@ -1,0 +1,100 @@
+<mxfile userAgent="Mozilla/5.0" version="16.1.4" editor="www.draw.io">
+  <diagram name="APSpace IA Flowchart" id="K_3vtdsM0l0L7Eq2mNO0">
+    <mxGraphModel dx="1188" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dashboard" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Courses" value="Courses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Current Enrolled Courses" value="Current Enrolled Courses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Past Courses & Transcripts" value="Past Courses & Transcripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Course Materials" value="Course Materials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Academic Calendar" value="Academic Calendar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Exams & Results" value="Exams & Results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Upcoming Exams" value="Upcoming Exams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Grades & Transcripts" value="Grades & Transcripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Exam Timetables" value="Exam Timetables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Student Services" value="Student Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Financial Aid & Scholarships" value="Financial Aid & Scholarships" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Counseling & Support" value="Counseling & Support" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Career Services" value="Career Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Administrative" value="Administrative" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Fees Payment" value="Fees Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Enrollment & Registration" value="Enrollment & Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Personal Info Update" value="Personal Info Update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="Library & Research" value="Library & Research" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="Digital Library" value="Digital Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="Research Databases" value="Research Databases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="Borrowing History" value="Borrowing History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="Community & Events" value="Community & Events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="University Announcements" value="University Announcements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="Clubs & Societies" value="Clubs & Societies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="Workshops & Seminars" value="Workshops & Seminars" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="Settings" value="Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="40" x="100" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="Account Settings" value="Account Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="Privacy Settings" value="Privacy Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="Notifications Preferences" value="Notifications Preferences" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" x="300" y="1470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
